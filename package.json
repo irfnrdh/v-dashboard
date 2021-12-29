@@ -22,6 +22,6 @@
     "@tailwindcss/postcss7-compat": "^2.0.2",
     "autoprefixer": "^9.8.6",
     "fs": "0.0.1-security",
-    "postcss": "^7.0.35"
+    "postcss": "^7.0.36"
   }
 }
