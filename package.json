@@ -18,7 +18,7 @@
     "@vue/compiler-sfc": "^3.0.0",
     "cross-env": "^7.0.2",
     "path": "^0.12.7",
-    "vite": "^1.0.0-rc.8",
+    "vite": "^2.9.13",
     "@tailwindcss/postcss7-compat": "^2.0.2",
     "autoprefixer": "^9.8.6",
     "fs": "0.0.1-security",
